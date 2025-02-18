@@ -20,7 +20,7 @@
 #define PINO_I2C_SDA 14
 #define PINO_I2C_SCL 15
 #define ENDERECO_I2C 0x3C
-#define ZONA_MORTA 250  // Define a faixa onde os LEDs permanecerão apagados
+#define ZONA_MORTA 0  // Define a faixa onde os LEDs permanecerão apagados
 #define DEBOUNCE_INTERVALO 200000  // 200 milissegundos (200000 microssegundos)
 
 bool state_led_verde = false;
