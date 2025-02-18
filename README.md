@@ -51,4 +51,4 @@ Pode acontecer de ao testar o código na BitDogLab, o Joystick não esteja exata
 ## Demonstração
 
 <!-- TODO: adicionar link do vídeo -->
-Vídeo demonstrando as funcionalidades da solução implementada: [Demonstração](https://youtu.be/0g13mYVv8dI)
+Vídeo demonstrando as funcionalidades da solução implementada: [Demonstração](https://youtu.be/j5bVD_lp_Ds)
