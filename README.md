@@ -46,7 +46,7 @@ Caso pressionado, o botão a desativará o PWM, impoossibilitando que os leds az
 
 ## Observação do teste na BitDogLab
 
-Pode acontecer de ao testar o código na BitDogLab, o Joystick não esteja exatamente no centro, fazendo com que permaneça ligado mesmo estando em sua posiçaõ inicial. Para corrigir essa imperfeição, basta definir um valor na ZONA_MORTA para que o led fique desligado. No teste realizado no vídeo abaixo foi definido uma zona morta de 250, a fim de garantir estabilidade no joystick.
+Pode acontecer de ao testar o código na BitDogLab, o Joystick não esteja exatamente no centro, fazendo com que permaneça ligado mesmo estando em sua posição inicial. Para corrigir essa imperfeição, basta definir um valor na ZONA_MORTA para que o led fique desligado. No teste realizado no vídeo abaixo foi definido uma zona morta de 250, a fim de garantir estabilidade no joystick.
 
 ## Demonstração
 
